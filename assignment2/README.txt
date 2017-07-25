@@ -1,0 +1,1 @@
+In the following assignment I was required to implement a work stealing scheduler, testing it by implementing a simple parallel merge sort algorithm, and afterwards use it to build a smart phone factory. The scheduler was written in Java. 
